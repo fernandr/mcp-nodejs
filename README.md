@@ -99,7 +99,7 @@ In the ./src directory:
 
 Install and configure Cursor as an MCP client that embeds the above deployed MCP server into its models.
 
-In this example, no specific model binding is selected (just use the Cursos defaults).
+In this example, no specific model binding is selected (we just use the Cursor defaults).
 
 ![](./Deployment-mcp-client.svg)
 
