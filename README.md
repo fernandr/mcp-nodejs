@@ -1,8 +1,8 @@
 Bring the model context protocol ([MCP](https://modelcontextprotocol.io/introduction)) in action:
 
 - Generate an MCP server (Node.js) from Postman
-- Deploy the server
-- Test the server from an MCP client (Cursor)
+- Deploy the server locally
+- Test the server from a local MCP client (Cursor)
 
 The MCP server in this example connects to the [OpenWeather API](https://openweathermap.org/api).
 
