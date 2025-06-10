@@ -101,6 +101,8 @@ Install and configure Cursor as an MCP client that embeds the above deployed MCP
 
 In this example, no specific model binding is selected (we just use the Cursor defaults).
 
+See the sections below for a description of the actions taken.
+
 ![](./Deployment-mcp-client.svg)
 
 ## Install Cursor
