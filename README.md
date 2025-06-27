@@ -119,7 +119,7 @@ Observe preconfigured models:
 
 Add the running MCP server to Cursor.
 
-- In Cursor, select Cursor Settings > MCP tools > New MCP Server
+- In Cursor, select Cursor Settings > Tools & Integrations > MCP tools > New MCP Server
 - Add args: "your-parent-dirs/mcpServer.js"
   ```
   {
